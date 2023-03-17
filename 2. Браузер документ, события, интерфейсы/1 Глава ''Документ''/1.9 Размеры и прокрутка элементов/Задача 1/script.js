@@ -1,0 +1,1 @@
+scrollBottom = e.scrollHeight - e.scrollTop - e.clientHeight
